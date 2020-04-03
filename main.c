@@ -57,6 +57,7 @@ void draw()     //first method
             }
             printf("\n");
     }
+     printf("Current Score :%d",score);
 }
 
 void input() // third method
